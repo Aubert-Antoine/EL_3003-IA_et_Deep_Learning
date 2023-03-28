@@ -26,8 +26,8 @@ $70$ % train set -- $30%$ % test set
 4. freezing
 
 **Type of *loss***
-1. loss='binary_crossentropy'
-2. loss='categorical_crossentropy'
+1. loss='binary_crossentropy':  is used for binary classification problems.
+2. loss='categorical_crossentropy' : is used for multi-class classification problems with mutually exclusive classes
 
 **Type of *activation***
 1. `'relu'`

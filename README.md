@@ -3,7 +3,7 @@
  
 [![Pauline Profile](https://img.shields.io/badge/Made%20with-Pauline%20Gouillart-brightgreen)](https://github.com/pauline-gllrt)
 [![Project](https://img.shields.io/badge/Project-ongoing-blue)](https://github.com/Aubert-Antoine/EL_3003-IA_et_Deep_Learning/tree/main/Project%20FaceRecognition)
-![Colab](https://img.shields.io/badge/Link%20to-Google%20Colab.-orange)
+[![Colab](https://img.shields.io/badge/Link%20to%Code.-orange)(https://colab.research.google.com/github/Aubert-Antoine/EL_3003-IA_et_Deep_Learning/blob/main/Project%20FaceRecognition/TP7_FaceRecognition.ipynb)]
 
 
 ## Unit description : 

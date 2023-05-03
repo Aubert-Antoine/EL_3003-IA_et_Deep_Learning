@@ -12,7 +12,7 @@ A focus is made on hyper-parameters, and regularisation techniques. The principa
 The first six labs are training exercises, each focusing on a specific part of the deep learning process. 
 
 ### Project : 
-The **[`final project`](https://github.com/Aubert-Antoine/EL_3003-IA_et_Deep_Learning/blob/main/Project%20FaceRecognition/TP7_FaceRecognition.ipynb)** is to do face rocognition on a small data base with a CNN, and then compare the efficency with other kind of classifier, such as KNN, SVM, and so on. 
+The **[`final project`](https://github.com/Aubert-Antoine/EL_3003-IA_et_Deep_Learning/blob/main/Project%20FaceRecognition/)** is to do face rocognition on a small data base with a CNN, and then compare the efficency with other kind of classifier, such as KNN, SVM, and so on. 
 > Find [here](https://github.com/Aubert-Antoine/EL_3003-IA_et_Deep_Learning/blob/main/Project%20FaceRecognition/Report.pdf) our report on the final project
 
 
